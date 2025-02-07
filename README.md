@@ -23,6 +23,12 @@ Professor in the following postgraduate programs:
 - Location-allocation problems
 - PO applications in industries
 
+ # Publications:
+- [Lattes](http://lattes.cnpq.br/8381522986161301)
+- [Google Scholar](https://scholar.google.com.br/citations?user=FpMkR1AAAAAJ&hl=pt-BR&oi=ao) 
+- [ORCID](https://orcid.org/0000-0002-8385-7573)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56203769000)
+
 # Scientific groups:
 - Control and Robotics Group at ITV
 - Interdisciplinary Group in Production Engineering and Computational Intelligence at UFC
@@ -54,9 +60,5 @@ Professor in the following postgraduate programs:
   - Alunos envolvidos: Graduação: (1) / Especialização: (3) / Mestrado profissional: (2) / Doutorado: (2).
 
 
- # Publications:
-- [Lattes](http://lattes.cnpq.br/8381522986161301)
-- [Google Scholar](https://scholar.google.com.br/citations?user=FpMkR1AAAAAJ&hl=pt-BR&oi=ao) 
-- [ORCID](https://orcid.org/0000-0002-8385-7573)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56203769000)
+
 
