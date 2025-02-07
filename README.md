@@ -1,5 +1,7 @@
 # Luciano Perdigão Cota
 
+![alt text](citations.jpg)
+
 Researcher at [Vale Technology Institute - ITV](https://www.itv.org/itv-mineracao/grupos-de-pesquisa-e-parcerias/) in Optimization Topic
 
 Ph.D. in Electrical Engineering by the Graduate Program in Electrical Engineering (PPGEE in the Portuguese acronym) of the Universidade Federal de Minas Gerais (UFMG)
