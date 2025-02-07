@@ -23,7 +23,7 @@ Professor in the following postgraduate programs:
 - Location-allocation problems
 - PO applications in industries
 
- # Publications:
+ # Published works:
 - [Lattes](http://lattes.cnpq.br/8381522986161301)
 - [Google Scholar](https://scholar.google.com.br/citations?user=FpMkR1AAAAAJ&hl=pt-BR&oi=ao) 
 - [ORCID](https://orcid.org/0000-0002-8385-7573)
