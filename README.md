@@ -23,12 +23,6 @@ Professor in the following postgraduate programs:
 - Location-allocation problems
 - PO applications in industries
 
- # Published works:
-- [Lattes](http://lattes.cnpq.br/8381522986161301)
-- [Google Scholar](https://scholar.google.com.br/citations?user=FpMkR1AAAAAJ&hl=pt-BR&oi=ao) 
-- [ORCID](https://orcid.org/0000-0002-8385-7573)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56203769000)
-
 # Scientific groups:
 - Control and Robotics Group at ITV
 - Interdisciplinary Group in Production Engineering and Computational Intelligence at UFC
@@ -59,6 +53,15 @@ Professor in the following postgraduate programs:
   - Situação: Em andamento; Natureza: Pesquisa.
   - Alunos envolvidos: Graduação: (1) / Especialização: (3) / Mestrado profissional: (2) / Doutorado: (2).
 
+ # More informations about the works:
+- [Lattes](http://lattes.cnpq.br/8381522986161301)
+- [Google Scholar](https://scholar.google.com.br/citations?user=FpMkR1AAAAAJ&hl=pt-BR&oi=ao) 
+- [ORCID](https://orcid.org/0000-0002-8385-7573)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56203769000)
+
+# Contact:
+- Phone: +55 31 98540.2919 
+- E-mails: luciano.p.cota@itv.org e lucianoufop@gmail.com 
 
 
 
