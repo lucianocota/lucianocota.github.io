@@ -53,7 +53,7 @@ Professor in the following postgraduate programs:
   - Situação: Em andamento; Natureza: Pesquisa.
   - Alunos envolvidos: Graduação: (1) / Especialização: (3) / Mestrado profissional: (2) / Doutorado: (2).
 
- # More informations about the works:
+# More informations about the works:
 - [Lattes](http://lattes.cnpq.br/8381522986161301)
 - [Google Scholar](https://scholar.google.com.br/citations?user=FpMkR1AAAAAJ&hl=pt-BR&oi=ao) 
 - [ORCID](https://orcid.org/0000-0002-8385-7573)
