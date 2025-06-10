@@ -28,14 +28,6 @@ Professor in the following postgraduate programs:
 - Interdisciplinary Group in Production Engineering and Computational Intelligence at UFC
 - Group of Optimization and Algorithms at UFOP
 
-# Partner researchers:
-
-- Marcone Jamilson Freitas Souza: Professor at UFOP
-- Bruno Prata: Professor at UFC
-- Frederico Gadelha Guimarães: Professor at UFMG
-- Douglas Batista Mazzinghy: Professor at UFMG
-- Gustavo Menezes: Professor at CEFET-MG
-
 # Current research projects (in Portuguese):
 
 - 2024 - Atual- CNPq 302629/2023-8 - Sistemas de suporte à decisão baseados em métodos exatos e heurísticos para problemas de otimização combinatória na mineração
