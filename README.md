@@ -4,14 +4,14 @@
 
 Researcher at [Vale Technology Institute - ITV](https://www.itv.org/itv-mineracao/grupos-de-pesquisa-e-parcerias/) in Optimization Topic
 
-Ph.D. in Electrical Engineering by the Graduate Program in Electrical Engineering (PPGEE in the Portuguese acronym) of the Universidade Federal de Minas Gerais (UFMG)
+Ph.D. in Electrical Engineering by the Graduate Program in Electrical Engineering (PPGEE) of the Universidade Federal de Minas Gerais (UFMG)
 
 CNPq Research Productivity Fellow - DTI
 
 # Professor in the following Postgraduate Programs:
 - Postgraduate Program in Computer Science ([PPGCC](http://www3.decom.ufop.br/pos/inicio/)) at Universidade Federal de Ouro Preto (UFOP), where I advise PhD and master's students in computer science
-- Professional Postgraduate Program in Instrumentation, Control and Automation of Mining Processes (PROFICAM in the Portuguese acronym) at UFOP/ITV, where I advise Professional Master's students in engineering
-- Professional Postgraduate Program in Innovative Technologies in Mining (PPGTIM in the Portuguese acronym) at Unifesspa/ITV, where I advise Professional Master's students in engineering
+- Professional Postgraduate Program in Instrumentation, Control and Automation of Mining Processes ([PROFICAM](https://proficam.ufop.br/)) at UFOP/ITV, where I advise Professional Master's students in engineering
+- Professional Postgraduate Program in Innovative Technologies in Mining (PPGTIM) at Unifesspa/ITV, where I advise Professional Master's students in engineering
 
 # Interest topics:
 - Combinatorial Optimization
