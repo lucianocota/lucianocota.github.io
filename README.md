@@ -9,9 +9,9 @@ Ph.D. in Electrical Engineering by the Graduate Program in Electrical Engineerin
 CNPq Research Productivity Fellow - DTI
 
 # Professor in the following Postgraduate Programs:
-- Postgraduate Program in [Computer Science (PPGCC)](http://www3.decom.ufop.br/pos/inicio/) at [Universidade Federal de Ouro Preto (UFOP)](https://ufop.br/), where I advise PhD and Master's students in Computer Science
-- Professional Postgraduate Program in [Instrumentation, Control and Automation of Mining Processes (PROFICAM)](https://proficam.ufop.br/) at UFOP and ITV, where I advise Professional Master's students in Engineering
-- Professional Postgraduate Program in [Innovative Technologies in Mining (PPGTIM)](https://ppgtim.unifesspa.edu.br/) at [Universidade Federal do Sul e Sudeste do Pará (Unifesspa)](https://www.unifesspa.edu.br/) and ITV, where I advise Professional Master's students in Engineering
+- Postgraduate Program in [Computer Science (PPGCC)](http://www3.decom.ufop.br/pos/inicio/) at [Universidade Federal de Ouro Preto (UFOP)](https://ufop.br/), in Ouro Preto, where I advise PhD and Master's students in Computer Science
+- Professional Postgraduate Program in [Instrumentation, Control and Automation of Mining Processes (PROFICAM)](https://proficam.ufop.br/) at UFOP and ITV, in Ouro Preto, where I advise Professional Master's students in Engineering
+- Professional Postgraduate Program in [Innovative Technologies in Mining (PPGTIM)](https://ppgtim.unifesspa.edu.br/) at [Universidade Federal do Sul e Sudeste do Pará (Unifesspa)](https://www.unifesspa.edu.br/) and ITV, in Marabá, where I advise Professional Master's students in Engineering
 
 # Interest topics:
 - Combinatorial Optimization
