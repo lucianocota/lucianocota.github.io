@@ -2,7 +2,7 @@
 
 ![alt text](citations.jpg)
 
-Researcher at [Vale Technology Institute - ITV](https://www.itv.org/itv-mineracao/grupos-de-pesquisa-e-parcerias/) in Optimization Topic
+Researcher at [Vale Technology Institute - ITV](https://www.itv.org/itv-mineracao/grupos-de-pesquisa-e-parcerias/) in Operational Research Topic
 
 Ph.D. in Electrical Engineering by the Graduate Program in Electrical Engineering (PPGEE) of the Universidade Federal de Minas Gerais (UFMG)
 
@@ -52,7 +52,10 @@ CNPq Research Productivity Fellow - DTI
 
 # Contact:
 - Phone: +55 31 98540.2919 
-- E-mails: luciano.p.cota@itv.org e lucianoufop@gmail.com 
+- E-mails:
+  - ITV: luciano.p.cota@itv.org
+  - UFOP: luciano.cota@ufop.edu.br
+  - Personal: lucianoufop@gmail.com 
 
 
 
