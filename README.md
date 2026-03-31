@@ -2,7 +2,7 @@
 
 ![alt text](citations.jpg)
 
-Researcher at [Vale Technology Institute - ITV](https://www.itv.org/itv-mineracao/grupos-de-pesquisa-e-parcerias/) in Operational Research Topic
+Researcher at [Vale Institute of Technology - ITV](https://www.itv.org/itv-mineracao/grupos-de-pesquisa-e-parcerias/) in Operational Research Topic
 
 Ph.D. in Electrical Engineering by the Graduate Program in Electrical Engineering (PPGEE) of the Universidade Federal de Minas Gerais (UFMG)
 
