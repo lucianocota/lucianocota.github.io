@@ -24,9 +24,9 @@ CNPq Research Productivity Fellow - DTI
 
 # Scientific groups:
 - Control and Robotics Group at ITV
-- Interdisciplinary Group in Production Engineering and Computational Intelligence at UFC
-- Group of Optimization and Algorithms at UFOP
-
+- GOAL - Group of Optimization and Algorithms at UFOP
+- Interdisciplinary Group in Production Engineering and Computational Intelligence at [Universidade Federal do Ceará (UFC)](https://www.ufc.br/)
+  
 # Current research projects (in Portuguese):
 
 - 2024 - Atual- CNPq 302629/2023-8 - Sistemas de suporte à decisão baseados em métodos exatos e heurísticos para problemas de otimização combinatória na mineração
